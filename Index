@@ -1,0 +1,192 @@
+1 - Rearrange a string so that all same characters become d distance away
+2 - Rightmost set bit in a given number
+3 - Representing 0x55555555 and other hexadecimal numbers
+4 - Remove  adjacent duplicate from a string
+5 - Print all the string lexicographically
+6 - Basic tree code
+7 - Minimum number of coins used to get the desired sum.
+9 - return the macimum possible n such that the array consists at least n values greater than or eq to n
+10- Given an array A[] and a number x, check for pair in A[] with sum as x
+11- Majority Element, which occurs more than n/2 times.
+12- Find the Missing Number
+13- Search an element in a sorted and pivoted array
+
+//Linked List\\
+
+14- Given only a pointer to a node to be deleted in a singly linked list, how do you delete it?
+15- Reverse link list
+16- Function to check if a singly linked list is palindrome
+17- Given a linked list which is sorted, how will you insert in sorted way
+18- Intersection of two Sorted Linked Lists
+19- Delete alternate nodes of a Linked List
+20- Merge two sorted linked lists
+21- Merge Sort for Linked Lists
+22- Reverse a Linked List in groups of given size
+23- Merge a linked list into another linked list at alternate positions
+24- Flatten a multilevel linked list
+
+//Stack\\
+
+25- Infix to Postfix
+26- Evaluation of Postfix Expression
+27- Reverse a string using stack
+28- Next Greater Element
+29- Reverse a stack using recursion
+30- The Stock Span Problem
+
+//Trees\\
+
+31- Tree traversal
+32- Write a C program to Calculate Size of a tree
+33- Write C Code to Determine if Two Trees are Identical
+34- Write an Efficient C Function to Convert a Binary Tree into its Mirror Tree
+35- Given a binary tree, print out all of its root-to-leaf paths one per line.
+36- Check for Children Sum Property in a Binary Tree.
+37- Convert an arbitrary Binary Tree to a tree that holds Children Sum Property
+38- Diameter of a Binary Tree
+39- How to determine if a binary tree is height-balanced?
+40- Inorder Tree Traversal without Recursion
+41- Construct Tree from given Inorder and Preorder traversals
+42- Maximum width of a binary tree
+43- Print nodes at k distance from root
+44- Print Ancestors of a given node in Binary Tree
+45- Populate Inorder Successor for all nodes
+46- Convert a given tree to its Sum Tree
+47- Vertical Sum in a given Binary Tree
+48- Find the maximum sum leaf to root path in a Binary Tree
+49- Boundary Traversal of binary tree
+50- Print all nodes at distance k from a given node
+51- Remove all nodes which don’t lie in any path with sum>= k
+53- The Great Tree-List Recursion Problem.
+NOTE - segment trees after MATH
+120- Difference between sums of odd level and even level nodes of a Binary Tree
+
+// BST \\
+
+52- Binary Search Tree | Set 1 (Search and Insertion)
+54- Inorder Successor in Binary Search Tree
+113- Find the largest BST subtree in a given Binary Tree
+114- Construct BST from given preorder traversal | Set 1
+
+// Arrays \\ 
+55- Median of two sorted arrays
+56- Check for Majority Element in a sorted array
+57- Equilibrium index of an array
+58- Find duplicates in O(n) time and O(1) extra space
+59- Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+60- Sort an array of 0s, 1s and 2s
+61- Find the smallest missing number
+62- Count the number of occurrences in a sorted array
+
+//Graphs\\
+
+63- BFS
+64- DFS
+65- Detect Cycle in a Directed Graph
+66- Topological sort
+67- Longest Path in a Directed Acyclic Graph
+68- Check whether a given graph is Bipartite or not
+108- SCCs
+109 - euler path and cycle
+
+//Mim Spanning tree\\
+
+69- Kruskal Algorithm (eloge + elogv)
+70- Prim's Algorithm (v^2)
+
+//Strings\\
+
+71- Return maximum occurring character in the input string
+72- Remove all duplicates from the input string.
+73- A Program to check if strings are rotations of each other or not
+74- Print reverse of a string using recursion
+75- Write a C program to print all permutations of a given string
+76- Divide a string in N equal parts
+77- Given a string, find its first non-repeating character
+78- Reverse words in a given string
+79- KMP
+80- Length of the longest substring without repeating characters
+81- Print all permutations with repetition of characters
+82- Check whether a given string is an interleaving of two other given strings
+83- Dynamic Programming | Set 17 (Palindrome Partitioning)
+84- Longest Palindromic Substring | Set 1
+85- String matching where one string contains wildcard characters
+
+//Divide and conquer\\
+86- Write a C program to calculate pow(x,n)
+87- Divide and Conquer | Set 3 (Maximum Subarray Sum)
+
+//Dynamic Programming\\
+88- Ugly Numbers
+89- Edit distance
+90- Dynamic Programming | Set 6 (Min Cost Path)
+91- Minimum number of jumps to reach end
+92- Dynamic Programming | Set 7 (Coin Change)
+93- Dynamic Programming | Set 8 (Matrix Chain Multiplication)
+94- Dynamic Programming | Set 9 (Binomial Coefficient)
+95- Dynamic Programming | Set 10 ( 0-1 Knapsack Problem)
+96- Dynamic Programming | Set 11 (Egg Dropping Puzzle)
+97- Dynamic Programming | Set 12 (Longest Palindromic Subsequence)
+98- Dynamic Programming | Set 13 (Cutting a Rod)
+99- Dynamic Programming | Set 14 (Maximum Sum Increasing Subsequence)
+100- Dynamic Programming | Set 18 (Partition problem)
+101- Dynamic Programming | Set 28 (Minimum insertions to form a palindrome)
+102- Dynamic Programming | Set 31 (Optimal Strategy for a Game)
+103- Dynamic Programming | Set 32 (Word Break Problem)
+
+//Palindrome\\    
+104- For each substring whether its a palindrome or not.(i,j) substring.
+
+//Maths\\
+105- sieve-of-eratosthenes
+106- sqrt function
+
+// segment trees \\
+107 - find maximum from l to r.
+
+// Revision \\
+108 - Given directed graph, find out whether graph is strongly connected or not.
+109 - Eulerian path and cycle exists or not.
+
+// Doubly Link List \\
+110 - double link list
+111 - reverse double link list
+
+// Heaps \\ 
+112- heaps implementation
+
+// BST \\ 
+113- Find the largest BST subtree in a given Binary Tree
+114- Construct BST from given preorder traversal | Set 1 
+
+
+//Revision\\
+115- 
+Q1) Given a set of numbers, find the longest subset of consecutive integers.
+Input:
+[2,5,3,4,8,1] ⇒ [1,2,3,4,5] 
+expected O(n) time complexity
+
+=====================================
+116-
+Use the shorest unique prefix to represent each word in the array
+input: ["zebra", "dog", "duck",”dot”]
+output: {zebra: z, dog: do, duck: du}
+[zebra, dog, duck, dove]
+{zebra:z, dog: dog, duck: du, dove: dov}
+[bearcat, bear]
+{bearcat: bearc, bear: ""}
+
+=====================================
+117-
+Output top N positive integer in string comparison order. For example, let's say N=1000, then you need to output in string comparison order as below:
+1, 10, 100, 1000, 101, 102, ... 109, 11, 110, ...
+
+=====================================
+118- 
+Find the longest sequence of prefix shared by all the words in a string.
+"abcdef abcdxxx abcdabcdef abcyy" => "abc"
+
+======================================
+119- Sort an array according to the order defined by another array
+120- Difference between sums of odd level and even level nodes of a Binary Tree
